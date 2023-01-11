@@ -128,7 +128,7 @@ class am_res(gr.top_block, Qt.QWidget):
                 window.WIN_HAMMING,
                 6.76))
         self.blocks_wavfile_sink_0 = blocks.wavfile_sink(
-            '/home/sam/speech/test.wav',
+            '/home/sam/atic_liza/test.wav',
             1,
             48000,
             blocks.FORMAT_WAV,

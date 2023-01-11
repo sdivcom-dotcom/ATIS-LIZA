@@ -132,7 +132,7 @@ blocks:
     bits_per_sample3: FORMAT_VORBIS
     bits_per_sample4: FORMAT_PCM_16
     comment: ''
-    file: /home/sam/speech/test.wav
+    file: /home/sam/atic_liza/test.wav
     format: FORMAT_WAV
     nchan: '1'
     samp_rate: '48000'
