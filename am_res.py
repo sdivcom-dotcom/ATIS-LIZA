@@ -4,10 +4,6 @@
 #
 # SPDX-License-Identifier: GPL-3.0
 #
-# GNU Radio Python Flow Graph
-# Title: Not titled yet
-# GNU Radio version: 3.10.1.1
-
 from packaging.version import Version as StrictVersion
 
 if __name__ == '__main__':
